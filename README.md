@@ -4,3 +4,5 @@ El código realiza un análisis de contribuciones en un experimento de bienes p�
 
 # Fuentes-datos
 
+doing-economics-datafile-working-in-excel-project-2: base de datos del experimento de Herrmann, B https://tinyco.re/6011816 
+juego20252 haciendo econ (1) base de datos-reguistos del juego de los estudientes de haciendo economia
